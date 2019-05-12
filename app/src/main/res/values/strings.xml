@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Medum</string>
+    <string name="title">Medum</string>
+    <string name="title_activity_home">Home</string>
+    <string name="title_home">Inicio</string>
+    <string name="title_fav">Favoritos</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="username">Usuario</string>
+
+</resources>

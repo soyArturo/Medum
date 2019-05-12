@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "786128246252",
+    "firebase_url": "https://medum-8c91b.firebaseio.com",
+    "project_id": "medum-8c91b",
+    "storage_bucket": "medum-8c91b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786128246252:android:53bc8dfb632a8609",
+        "android_client_info": {
+          "package_name": "e.arturo.nuevomedummasperron4kfullhd1link"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "786128246252-8t0mljj1tt4odoco1sudehgnassej633.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "e.arturo.nuevomedummasperron4kfullhd1link",
+            "certificate_hash": "1bb80de75444ad110611bfa954941fdff5f9fcf4"
+          }
+        },
+        {
+          "client_id": "786128246252-gt57mvhnmeasanfuj2c8kmli2gara9nu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhdoDfDp6miNpgYENCXcMSPAn3p13RzU8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "786128246252-gt57mvhnmeasanfuj2c8kmli2gara9nu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
