@@ -5,5 +5,5 @@ Integrantes
 * Perez Bernal Arturo
 * Valadez Gascon Rafael
 * Barraza Olivares Oscar Rodolfo
-* Urtiz Ivan
+* Urtiz Morales Javier Ivan
 * Villagomez Dominguez Marcos Eduardo
